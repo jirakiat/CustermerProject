@@ -53,5 +53,5 @@ Visit `http://127.0.0.1:8000/` in your browser.
 
 ## Key URLs
 
-- **Add Customer**: `http://127.0.0.1:8000/customer/add_customer/`
-- **Show Customers**: `http://127.0.0.1:8000/customer/customer_list/`
+- **Add Customer**: `http://127.0.0.1:8000/register/`
+- **Show Customers**: `http://127.0.0.1:8000/customer_list/`
